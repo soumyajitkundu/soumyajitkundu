@@ -9,11 +9,11 @@
   [DRIFT_yt](https://www.youtube.com/channel/UC0NdtIFFuNxEofMIohQUtCw?view_as=subscriber)                 
 ***
 
-- 🔭 I’m currently working on ... Autonomous Garbage Detection bot!
-- 🌱 I’m currently learning ... OpenCV, TensorFlow, Cloud Computing... 
-- 👯 I’m looking to collaborate on ... OpenCV, TensorFlow
-- 🤔 I’m looking for help with ... Amazon Lex!!
-- 💬 Ask me about ... Anything!
+- 🔭 I’m currently working on ... **Autonomous Garbage Detection bot!
+- 🌱 I’m currently learning ... **OpenCV, TensorFlow, Cloud Computing... 
+- 👯 I’m looking to collaborate on ... **OpenCV, TensorFlow
+- 🤔 I’m looking for help with ... **Amazon Lex!!
+- 💬 Ask me about ... **Anything!
 - 📫 How to reach me: ... 
 [Youtube](https://www.youtube.com/channel/UCszw3MtN6FGS3_ufYfVFXJQ?view_as=subscriber),
 [LinkedIn](https://www.linkedin.com/in/soumyajit-kundu-0754281a9/),
