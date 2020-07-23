@@ -19,6 +19,6 @@
 [LinkedIn](https://www.linkedin.com/in/soumyajit-kundu-0754281a9/),
 [Facebook](https://www.facebook.com/soumyajit.kundu.73/),
 [Instagram](https://www.instagram.com/_.soumyajit.kundu._/),
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I am half finished!
+- 😄 Pronouns: ... **He/Him**
+- ⚡ Fun fact: ... **I am half finished!**
 
