@@ -2,7 +2,7 @@
 
 ***
 ### Intro :✌🏻
-  I am a third year undergraduate pursuing🎓 **Electronics and Communication Engineering** from **Academy of Technology, Adisaptagram.** 
+  I am a fourth year undergraduate pursuing🎓 **Electronics and Communication Engineering** from **Academy of Technology, Adisaptagram.** 
   I'm a Dog Father🐶 my hobbies include painting🎨🖌️ and playing guitar🎸
   Follow my band DRIFT here: 
   [DRIFT_fb](https://www.facebook.com/driftmusicindia.19),
@@ -10,9 +10,9 @@
 ***
 
 - 🔭 I’m currently working on ... **Autonomous Garbage Detection bot!**
-- 🌱 I’m currently learning ... **OpenCV, TensorFlow, Cloud Computing...**
-- 👯 I’m looking to collaborate on ... **OpenCV, TensorFlow**
-- 🤔 I’m looking for help with ... **Amazon Lex!!**
+- 🌱 I’m currently learning ... **OpenCV, TensorFlow, Cloud Computing, HTML, CSS, JavaScript, PHP, Symfony**
+- 👯 I’m looking to collaborate on ... **OpenCV, TensorFlow, HTML, CSS, JavaScript, PHP, Symfony**
+- 🤔 I’m looking for help with ... **AWS**
 - 💬 Ask me about ... **Anything!**
 - 📫 How to reach me: ... 
 [YouTube](https://www.youtube.com/channel/UCszw3MtN6FGS3_ufYfVFXJQ?view_as=subscriber),
