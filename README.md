@@ -10,9 +10,9 @@
 ***
 
 - 🔭 I’m currently working on ... **Autonomous Garbage Detection bot!**
-- 🌱 I’m currently learning ... **OpenCV, TensorFlow, Cloud Computing, HTML, CSS, JavaScript, PHP, Symfony**
-- 👯 I’m looking to collaborate on ... **OpenCV, TensorFlow, HTML, CSS, JavaScript, PHP, Symfony**
-- 🤔 I’m looking for help with ... **AWS**
+- 🌱 I’m currently learning ... **OpenCV, TensorFlow**
+- 👯 I’m looking to collaborate on ... **HTML, CSS, JavaScript, MySQL**
+- 🤔 I’m looking for help with ... **Neural Networks**
 - 💬 Ask me about ... **Anything!**
 - 📫 How to reach me: ... 
 [YouTube](https://www.youtube.com/channel/UCszw3MtN6FGS3_ufYfVFXJQ?view_as=subscriber),
